@@ -1,2 +1,2 @@
 - [Preview](https://Nvalja.github.io/my-project/)
-- [Pull Request](https://github.com/Nvalja/my-project/compare/main...gh-pages)
+- [Pull Request](https://github.com/Nvalja/my-project/pull/1/files)
